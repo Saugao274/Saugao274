@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Frontend%20Developer&fontSize=38&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&animation=fadeIn&color=0:0f2027,50:203a43,100:2c5364&height=180&text=Frontend%20Developer&fontSize=38&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Thanh Thuy</h1>
@@ -50,11 +50,20 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: ntthanhthuy274@gmail.com
+
+<table>
+<tr>
+<td valign="top">
+
+- 📧 Email: **ntthanhthuy274@gmail.com**  
 - 💼 GitHub: [https://github.com/Saugao274](https://github.com/Saugao274)
 
----
-<p align="center">
-  <img width="300" src="./200w.gif" />
-</p>
+</td>
+<td align="center" width="300">
+
+<img src="./200w.gif" width="200" />
+
+</td>
+</tr>
+</table>
 
