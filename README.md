@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Frontend%20Developer&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Saugao</h1>
+<h1 align="center">Hi 👋, I'm Thanh Thuy</h1>
 <h3 align="center">Frontend Developer | Web & Mobile</h3>
 
 ---
@@ -26,6 +26,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 </p>
+
 
 ---
 
@@ -52,7 +53,7 @@
 - 💼 GitHub: [https://github.com/Saugao274](https://github.com/Saugao274)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saugao274&show_icons=true&theme=tokyonight" />
+  <img width="300" src="./200w.gif" />
 </p>
+
