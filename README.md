@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Thanh Thuy</h1>
 <h3 align="center">Frontend Developer | Web & Mobile</h3>
 
----
+<hr style="display:none" />
+
 
 ## 👨‍💻 About Me
 - 🎯 Frontend-focused developer with hands-on experience in **web and mobile applications**
@@ -13,7 +14,8 @@
 - 🤝 Comfortable working in **team environments**, code reviews, and Git workflows
 - 🌱 Always learning and improving frontend architecture and performance
 
----
+<hr style="display:none" />
+
 
 ## 🛠️ Frontend Skills
 <p>
@@ -29,16 +31,17 @@
 </p>
 
 
----
+<hr style="display:none" />
+
 
 ## ⚙️ What I Do
 - Build **responsive UI** for web and mobile using **React, Next.js, React Native**
 - Manage application state with **Redux Toolkit**
 - Create smooth UI interactions with **modern animation libraries**
 - Collaborate with backend APIs and handle real-time features
-- Follow clean code practices and component-based architecture
 
----
+<hr style="display:none" />
+
 
 ## 🧩 Tools & Workflow
 <p>
@@ -47,23 +50,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 
----
+<hr style="display:none" />
 
-## 📫 Contact Me
+<div style="display:flex; gap:20px; align-items:center; justify-content:space-between; flex-wrap:wrap;">
+  <div style="flex:1; min-width:240px;">
+    <h2>📫 Contact Me</h2>
+    <ul>
+      <li>📧 Email: <b>ntthanhthuy274@gmail.com</b></li>
+      <li>💼 GitHub: <a href="https://github.com/Saugao274">https://github.com/Saugao274</a></li>
+    </ul>
+  </div>
 
-<table>
-<tr>
-<td valign="top">
-
-- 📧 Email: **ntthanhthuy274@gmail.com**  
-- 💼 GitHub: [https://github.com/Saugao274](https://github.com/Saugao274)
-
-</td>
-<td align="center" width="300">
-
-<img src="./200w.gif" width="200" />
-
-</td>
-</tr>
-</table>
-
+  <div style="flex:0 0 auto;">
+    <img src="./200w.gif" width="220" style="max-width:100%; height:auto; border-radius:12px;" />
+  </div>
+</div>
