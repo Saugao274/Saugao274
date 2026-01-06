@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&animation=fadeIn&color=0:0f172a,50:334155,100:94a3b8&height=270&section=header&text=Frontend%20Developer%20-%20Web%20and%20Mobile&fontSize=38&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Thanh Thuy</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Thi Thanh Thuy</h1>
+
 
 ## 👨‍💻 About Me
 - Frontend-focused developer with hands-on experience in **web and mobile applications**
@@ -10,7 +11,7 @@
 - Comfortable working in **team environments**, code reviews, and Git workflows
 - Always learning and improving frontend architecture and performance
 
-## 🛠️ Frontend Skills
+## Frontend Skills
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
@@ -23,22 +24,15 @@
 
 </p>
 
-## ⚙️ What I Do
-- Build **responsive UI** for web and mobile using **React, Next.js, React Native**
-- Manage application state with **Redux Toolkit**
-- Create smooth UI interactions with **modern animation libraries**
-- Collaborate with backend APIs and handle real-time features
-  <div style="flex:1 1 auto;">
-    <img src="./200w.gif" width="220" style="max-width:100%; height:auto; border-radius:12px;" />
-  </div>
-
-## 🧩 Tools & Workflow
+## Tools & Workflow
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
-
+  <div style="flex:1 1 auto;">
+    <img src="./200w.gif" width="220" style="max-width:100%; height:auto; border-radius:12px;" />
+  </div>
 <div style="display:flex; gap:20px; align-items:center; justify-content:space-between; flex-wrap:wrap;">
   <div style="flex:1; min-width:250px;">
     <h2>📫 Contact Me</h2>
